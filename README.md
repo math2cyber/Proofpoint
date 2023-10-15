@@ -47,13 +47,13 @@ VirusTotal <br/>
 <h2>IP Reputation Check</h2>
 VirusTotal Risk Score: 0/87 vendors flagged IP as malicious.  The IP is clean.
 <p align="center">
-Hybrid Analysis Sandbox <br/>
+ <br/>
 <img src="https://imgur.com/EXz8vfD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />  
 abuseIPDB Risk Score: IP address not found in database. The IP is clean.
 <p align="center">
-Hybrid Analysis Sandbox <br/>
+ <br/>
 <img src="https://imgur.com/nFzZnaP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />  
